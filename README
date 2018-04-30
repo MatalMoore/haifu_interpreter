@@ -1,1 +1,4 @@
-This is an interpreter for the Haifu programming language, specified by David Morgan-Mar at <http://www.dangermouse.net/esoteric/haifu.html>.
+This is an interpreter for the Haifu programming language,
+specified by David Morgan-Mar at <http://www.dangermouse.net/esoteric/haifu.html>.
+
+It can be compiled using Visual Studio or g++.
